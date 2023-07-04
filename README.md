@@ -42,11 +42,4 @@ For detailed documentation, including circuit diagrams, pin configurations, and 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-## Acknowledgments
-
-- Special thanks to [Author's Name] for creating and sharing this project.
 
