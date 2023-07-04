@@ -36,9 +36,5 @@ This project utilizes an IR (Infrared) sensor to detect obstacles using Atmel mi
 
 
 
-This project is licensed under the [MIT License](./LICENSE).
 
-## Acknowledgments
-
-- Special thanks to [Author's Name] for creating and sharing this project.
 
