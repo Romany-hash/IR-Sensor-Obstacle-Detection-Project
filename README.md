@@ -34,15 +34,7 @@ This project utilizes an IR (Infrared) sensor to detect obstacles using Atmel mi
 5. Connect the virtual LCD display and the IR sensor module to the appropriate pins on the microcontroller in Proteus.
 6. Power up the simulation and observe the obstacle detection status on the virtual LCD display.
 
-## Documentation
 
-For detailed documentation, including circuit diagrams, pin configurations, and code explanation, please refer to the [Documentation](./Documentation) directory.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
-
-## License
 
 This project is licensed under the [MIT License](./LICENSE).
 
